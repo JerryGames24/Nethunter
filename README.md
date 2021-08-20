@@ -8,5 +8,7 @@ Tengan un excelente día :D
 
 
 Actualizar Termux
-apt-get update -y
-apt-get upgrade -y
+
+1.- apt-get update -y
+
+2.-apt-get upgrade -y
