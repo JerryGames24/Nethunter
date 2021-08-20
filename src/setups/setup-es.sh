@@ -81,7 +81,7 @@ while true; do
             clear
              echo -e '\e[97m   Volviendo al \e[92mmenu principal\e[97m...'
                     sleep 3
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh; break;;
 
         [2]* )
@@ -124,7 +124,7 @@ while true; do
             clear
                     echo -e '\e[97m   Volviendo al \e[92mmenu principal\e[97m... ✅'
                     sleep 3
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh
                     elif [ $respuesta == 2 ]; then
                             cd /data/data/com.termux/files/home/
@@ -148,7 +148,7 @@ while true; do
                     sleep 2
                     echo -e '\e[97m   Volviendo al \e[92mmenu principal\e[97m... ✅'
                     sleep 3
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh
 
                     elif [ $respuesta == 3 ]; then
@@ -167,14 +167,14 @@ while true; do
                     clear
                         echo -e '\e[97m   Volviendo al \e[92mmenu principal\e[97m... ✅'
                     sleep 3
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh
                   elif [ $respuesta == 4 ]; then
                     sleep 0.5
             clear
                         echo -e '\e[97m   Volviendo al \e[92mmenu principal\e[97m... ✅'
                     sleep 3
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh
                     else
             clear
@@ -184,7 +184,7 @@ while true; do
             clear
                         echo -e '\e[97m     Volviendo al \e[92mmenu\e[97m... ✅'
                     sleep 4
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh; break;;
                     
 
@@ -242,7 +242,7 @@ while true; do
             clear
                 echo -e '\e[97m     Volviendo al \e[92mmenu\e[97m... ✅'
                     sleep 4
-                            cd /data/data/com.termux/files/home/NetHunter/src/setups
+                            cd /data/data/com.termux/files/home/Nethunter/src/setups
                                 bash setup-es.sh; break;;
         [5]* )
             clear
@@ -256,7 +256,7 @@ while true; do
             clear
                 echo -e "\e[91m     Opcion no valida!"
                     sleep 5
-                           cd /data/data/com.termux/files/home/NetHunter/src/setups
+                           cd /data/data/com.termux/files/home/Nethunter/src/setups
                                  bash setup-es.sh;;
     esac
 done
