@@ -3,7 +3,7 @@
 
 ####################### Variables 💡 #######################
 
-DIRECTORIO_IDIOMA='/data/data/com.termux/files/home/NetHunter/src/idioma'
+DIRECTORIO_IDIOMA='/data/data/com.termux/files/home/Nethunter/src/idioma'
 DIRECTORIO_HOME='/data/data/com.termux/files/home/Nethunter'
 
 ####################### Inicio 🍕 #######################
