@@ -7,8 +7,16 @@ Recuerden actualizar su termux antes de inicializar el script si no, no funciona
 Tengan un excelente día :D
 
 
-Actualizar Termux
+Cambiar repositorio de Termux
+1.- termux-change-repo
+2.- Seleccionar todas las repo disponibles
+3.- Seleccionar mirror de A1batross
 
-1.- apt-get update -y
 
-2.-apt-get upgrade -y
+Actualizar Termux e intalación del script
+1.- apt-get update -y && apt-get upgrade -y
+2.- apt-get install git -y
+3.- git clone https://github.com/JerryGames24/Nethunter.git
+4.- cd Nethunter
+5.- chmod +x setup.sh
+6.- ./setup.sh
