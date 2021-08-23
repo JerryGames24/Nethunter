@@ -7,6 +7,8 @@ Recuerden actualizar su termux antes de inicializar el script si no, no funciona
 Tengan un excelente día :D
 
 
+
+
 Cambiar repositorio de Termux
 
 1.- termux-change-repo
@@ -17,6 +19,8 @@ Cambiar repositorio de Termux
 
 
 
+
+  
 Actualizar Termux e intalación del script
 
 1.- apt-get update -y && apt-get upgrade -y
