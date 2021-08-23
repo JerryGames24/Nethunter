@@ -10,15 +10,24 @@ Tengan un excelente día :D
 Cambiar repositorio de Termux
 
 1.- termux-change-repo
+
 2.- Seleccionar todas las repo disponibles
+
 3.- Seleccionar mirror de A1batross
 
 
 
 Actualizar Termux e intalación del script
+
 1.- apt-get update -y && apt-get upgrade -y
+
 2.- apt-get install git -y
+
 3.- git clone https://github.com/JerryGames24/Nethunter.git
+
 4.- cd Nethunter
+
 5.- chmod +x setup.sh
+
 6.- ./setup.sh
+
