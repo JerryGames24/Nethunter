@@ -14,6 +14,7 @@ Cambiar repositorio de Termux
 3.- Seleccionar mirror de A1batross
 
 
+
 Actualizar Termux e intalación del script
 1.- apt-get update -y && apt-get upgrade -y
 2.- apt-get install git -y
