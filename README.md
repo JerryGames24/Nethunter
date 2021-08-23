@@ -8,6 +8,7 @@ Tengan un excelente día :D
 
 
 Cambiar repositorio de Termux
+
 1.- termux-change-repo
 2.- Seleccionar todas las repo disponibles
 3.- Seleccionar mirror de A1batross
